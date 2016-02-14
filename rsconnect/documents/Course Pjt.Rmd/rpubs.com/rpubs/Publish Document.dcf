@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/151063/07c212332c0c491eb278ce910333fdb9
+url: http://rpubs.com/DataViki/151063
+when: 1455431866.40783

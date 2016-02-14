@@ -1,0 +1,20 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .gitattributes
+#	deleted:    .gitignore
+#	new file:   Course Pjt.Rmd
+#	new file:   Course_Pjt.Rmd
+#	new file:   Course_Pjt.html
+#	new file:   Course_Pjt_files/figure-html/unnamed-chunk-11-1.png
+#	new file:   Course_Pjt_files/figure-html/unnamed-chunk-11-2.png
+#	new file:   Course_Pjt_files/figure-html/unnamed-chunk-12-1.png
+#	new file:   Course_Pjt_files/figure-html/unnamed-chunk-12-2.png
+#	new file:   rsconnect/Final1
+#	new file:   rsconnect/documents/Course Pjt.Rmd/rpubs.com/rpubs/Publish Document.dcf
+#
+
